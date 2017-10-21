@@ -1,0 +1,1 @@
+# prohashing-nicehash-arb.js
